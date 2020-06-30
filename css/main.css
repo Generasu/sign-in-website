@@ -90,13 +90,16 @@ h1 {
     margin-left: 10px;
     margin-right: 10px;
     transition: 0.5s;
+    text-decoration: none;
 }
 .btn1:hover{
-    background-color: green;
+    background-color: #001a67;
+    cursor: pointer;
 }
 .btn2 {
     color: blue;
     display: inline-block;
+    text-decoration: none;
 }
 .buttons {
     display: inline-block;
